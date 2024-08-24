@@ -1,4 +1,5 @@
-#Q1.
+#Q1
+
 # In the cell below, define a function called sign which takes a numerical argument and returns -1 if it's negative, 1 if it's positive, and 0 if it's 0.
 def sign(num):
     if(num>0):
