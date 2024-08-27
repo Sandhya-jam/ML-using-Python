@@ -4,6 +4,7 @@ from learntools.python import jimmy_slots
 graph = jimmy_slots.get_graph()
 graph
 
+
 def prettify_graph(graph):
     """Modify the given graph according to Jimmy's requests: add a title, make the y-axis
     start at 0, label the y-axis. (And, if you're feeling ambitious, format the tick marks

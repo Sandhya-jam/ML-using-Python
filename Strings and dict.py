@@ -1,5 +1,5 @@
 #Q0.find length
-# a
+# a:
 a = ""
 length = 0
 
